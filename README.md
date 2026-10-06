@@ -1,0 +1,1 @@
+temp asset host for X Ads media_url; safe to delete after campaign creatives are uploaded
